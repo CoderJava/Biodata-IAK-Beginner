@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IAK Beginner</string>
+    <string name="angelica_agnesia">Angelica Agnesia</string>
+    <string name="bio">Bio</string>
+    <string name="gender">Gender</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="status">Status</string>
+    <string name="hobi">Hobi</string>
+    <string name="main_game">Main Game</string>
+    <string name="olahraga">Olahraga</string>
+    <string name="makan">Makan</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="save">Save</string>
+    <string name="photo_header">photo header</string>
+    <string name="photo_profile">photo profile</string>
+    <string name="image_view_edit">image view edit</string>
+    <string-array name="status">
+        <item>Single</item>
+        <item>Married</item>
+    </string-array>
+</resources>
