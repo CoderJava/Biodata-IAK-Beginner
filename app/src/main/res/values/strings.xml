@@ -16,6 +16,7 @@
     <string name="photo_profile">photo profile</string>
     <string name="image_view_edit">image view edit</string>
     <string-array name="status">
+        <item>Pilih</item>
         <item>Single</item>
         <item>Married</item>
     </string-array>
